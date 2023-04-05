@@ -1,0 +1,19 @@
+.movie-card {
+    background-color: red;
+}
+.footer {
+  margin-top: 15px;
+}
+.Pagesidebar-color {
+background-color: #f0f0f0;
+}
+.pf-c-context-selector{
+  margin-left: 20px;
+}
+.pf-l-grid.pf-m-gutter{
+  --pf-l-grid--m-gutter--GridGap: 6px;
+}
+/* .pf-c-button.pf-m-primary{
+  padding-right: 10px;
+  padding-left: 8px;
+} */
